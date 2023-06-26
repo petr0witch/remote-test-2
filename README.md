@@ -6,3 +6,4 @@ git remote add origin https://github.com/petr0witch/remote-test-2
 git push -u origin main
 
 //2
+Test
